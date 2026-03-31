@@ -1,0 +1,14 @@
+{
+  "name": "12-factor-agent-skill",
+  "owner": {
+    "name": "Daniel Lemes",
+    "url": "https://github.com/lemesdaniel"
+  },
+  "plugins": [
+    {
+      "name": "12-factor-agent-skill",
+      "source": ".",
+      "description": "Build production-grade LLM agents following 12-factor principles and Anthropic's patterns"
+    }
+  ]
+}

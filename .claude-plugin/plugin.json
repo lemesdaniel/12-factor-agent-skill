@@ -1,0 +1,10 @@
+{
+  "name": "12-factor-agent-skill",
+  "description": "Guide for building production-grade LLM agents following 12-factor principles and Anthropic's Building Effective Agents patterns. Includes decision frameworks, implementation checklists, anti-patterns, and complete TypeScript/Python examples.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Lemes",
+    "url": "https://github.com/lemesdaniel"
+  },
+  "license": "MIT"
+}
